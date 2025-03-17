@@ -1,0 +1,18 @@
+[project]
+name = "genai-nd-5"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "ipykernel>=6.29.5",
+    "langchain-community>=0.3.19",
+    "langchain-text-splitters>=0.3.6",
+    "langgraph>=0.3.11",
+    "openai>=1.66.3",
+    "pydantic>=2.10.6",
+    "python-dotenv>=1.0.1",
+    "rich>=13.9.4",
+    "streamlit>=1.43.2",
+]
